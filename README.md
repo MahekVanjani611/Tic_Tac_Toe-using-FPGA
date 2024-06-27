@@ -1,1 +1,1 @@
-# Tic_Tac_Toe-using-FPGA
+# Tic_Tac_Toe-using-PYNQ-Z2
